@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="diet_options">
+        <item>Без ограничений</item>
+        <item>Вегетарианство</item>
+        <item>Веганство</item>
+        <item>Кето</item>
+        <item>Без глютена</item>
+        <item>Без лактозы</item>
+    </string-array>
+    <string-array name="allergy_options">
+        <item>нет аллергенов</item>
+        <item>Орехи</item>
+        <item>Глютен</item>
+        <item>Молочные продукты</item>
+        <item>Яйца</item>
+        <item>Соевые продукты</item>
+        <item>Морепродукты</item>
+        <item>Пшеница</item>
+        <item>Лактоза</item>
+    </string-array>
+    <string-array name="skill_levels">
+        <item>Новичок</item>
+        <item>Средний</item>
+        <item>Продвинутый</item>
+    </string-array>
+</resources>
